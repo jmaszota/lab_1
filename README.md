@@ -1,1 +1,1 @@
-# lab_1
+# Zadanie 1
